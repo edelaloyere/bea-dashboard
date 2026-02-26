@@ -1,21 +1,33 @@
 {
-  "derniere_mise_a_jour": "2026-02-24",
+  "derniere_mise_a_jour": "2026-02-26 22:35",
   "client": {
     "nom": "Béa",
     "logo": "/logo-bea.png",
-    "couleurPrimaire": "#1E2D40",
-    "couleurAccent": "#FF6B35",
+    "couleurPrimaire": "#1A1A2E",
+    "couleurAccent": "#E94560",
     "periode": "janv. 2024 – févr. 2026",
     "kpis": {
-      "retombees": "55",
+      "retombees": "56",
       "tvRadio": "10",
-      "typesPresse": "6",
-      "mediasCles": "12"
+      "typesPresse": "9",
+      "mediasCles": "13"
     }
   },
   "retombees": [
     {
       "id": 1,
+      "titre": "Béa : l'application qui met en relation deux propriétaires souhaitant échanger leurs biens",
+      "media": "Europe 1",
+      "logoMedia": "/logos/europe1.png",
+      "date": "2026-02-25",
+      "type": "Radio/TV",
+      "format": "",
+      "url": "https://www.europe1.fr/emissions/initiatives-en-france/bea-lapplication-qui-met-en-relation-deux-proprietaires-souhaitant-echanger-leurs-biens-903459",
+      "journaliste": "",
+      "pdfPath": ""
+    },
+    {
+      "id": 2,
       "titre": "Béa bouscule les codes de l'immobilier dans Qui veut être mon associé ?",
       "media": "Batinfo",
       "logoMedia": "",
@@ -27,7 +39,7 @@
       "pdfPath": ""
     },
     {
-      "id": 2,
+      "id": 3,
       "titre": "Béa : la startup qui réinvente l'immobilier par l'échange de biens",
       "media": "Business Times",
       "logoMedia": "",
@@ -39,7 +51,7 @@
       "pdfPath": ""
     },
     {
-      "id": 3,
+      "id": 4,
       "titre": "Béa - troc immobilier définitif entre propriétaires",
       "media": "J'aime les startups",
       "logoMedia": "",
@@ -51,7 +63,7 @@
       "pdfPath": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "titre": "Qui veut être mon associé : les 7 entreprises à découvrir dans l'émission du 29 janvier sur M6",
       "media": "Actu M6",
       "logoMedia": "",
@@ -63,7 +75,7 @@
       "pdfPath": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "titre": "« Qui veut être mon associé ? » : Béa parie sur l'échange immobilier entre propriétaires",
       "media": "Maddyness",
       "logoMedia": "/logos/maddyness.png",
@@ -75,8 +87,8 @@
       "pdfPath": ""
     },
     {
-      "id": 6,
-      "titre": "Béa, la plateforme qui simplifie l'échange immobilier : Qui veut être mon associé 2026, Ep. 4",
+      "id": 7,
+      "titre": "Béa, la plateforme qui simplifie l'échange immobilier : Qui veut être mon associé 2026, Ep. 4, ce soir à 21h10",
       "media": "Orléans info, Tarbes actu (sites locaux)",
       "logoMedia": "",
       "date": "2026-01-29",
@@ -87,7 +99,7 @@
       "pdfPath": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "titre": "Qui veut être mon associé ?",
       "media": "Télérama",
       "logoMedia": "",
@@ -99,7 +111,7 @@
       "pdfPath": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "titre": "Qui veut être mon associé - S06E04",
       "media": "Programme TV Ouest-France",
       "logoMedia": "/logos/ouest-france.png",
@@ -111,7 +123,7 @@
       "pdfPath": ""
     },
     {
-      "id": 9,
+      "id": 10,
       "titre": "\"Qui veut être mon associé ?\" jeudi 29 janvier 2026 sur M6, voici les entrepreneurs du 4ème numéro",
       "media": "Coulisses TV",
       "logoMedia": "",
@@ -123,9 +135,9 @@
       "pdfPath": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "titre": "Béa relance le troc immobilier entre particuliers",
-      "media": "L'Essentiel de l'éco",
+      "media": "L'Essentiel de l'Éco",
       "logoMedia": "",
       "date": "2026-01-28",
       "type": "Web",
@@ -135,7 +147,7 @@
       "pdfPath": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "titre": "Béa réinvente le troc immobilier entre particuliers : une nouvelle ère d'échange sans intermédiaire",
       "media": "Altus Entreprise",
       "logoMedia": "",
@@ -147,19 +159,19 @@
       "pdfPath": ""
     },
     {
-      "id": 12,
-      "titre": "Échange immobilier : l'arme anti-frais de notaire",
+      "id": 13,
+      "titre": "Échange immobilier : l’arme anti-frais de notaire",
       "media": "Ideal Investisseur",
       "logoMedia": "/logos/ideal-investisseur.png",
       "date": "2025-06-10",
       "type": "Web",
       "format": "",
-      "url": "https://www.linkedin.com/pulse/tout-va-trop-vite-surtout-en-finance-vczre/",
+      "url": "https://www.linkedin.com/pulse/tout-va-trop-vite-surtout-en-finance-vczre/?trackingId=9WPhjhezTSO7atwh%2FH4w6w%3D%3D",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "titre": "Immobilier : échanger sa maison plutôt que la vendre pour éviter les « frais de notaire »",
       "media": "Les Echos",
       "logoMedia": "/logos/les-echos.png",
@@ -171,7 +183,7 @@
       "pdfPath": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "titre": "Les Experts de l'immo : les frais de notaire, comment les faire baisser",
       "media": "BFM Business",
       "logoMedia": "/logos/bfm.png",
@@ -183,22 +195,22 @@
       "pdfPath": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "titre": "Frais de notaire : économisez jusqu'à 60% grâce à un mode d'achat immobilier méconnu",
       "media": "Capital",
       "logoMedia": "/logos/capital.png",
       "date": "2025-05-06",
       "type": "Web",
       "format": "",
-      "url": "https://www.capital.fr/immobilier/frais-de-notaire-economisez-jusqu-a-60-grace-a-un-mode-d-achat-immobilier-meconnu-1513505",
+      "url": "https://www.capital.fr/immobilier/frais-de-notaire-economisez-jusqu-a-60-grace-a-un-mode-d-achat-immobilier-meconnu-1513505?utm_source=app_cap_universelle&utm_medium=android",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 16,
+      "id": 17,
       "titre": "Connaissez-vous ce mécanisme surprenant qui permet de s'échanger un bien immobilier ?",
       "media": "TF1",
-      "logoMedia": "",
+      "logoMedia": "/logos/tf1.png",
       "date": "2025-04-09",
       "type": "Web",
       "format": "",
@@ -207,19 +219,19 @@
       "pdfPath": ""
     },
     {
-      "id": 17,
+      "id": 18,
       "titre": "8 conseils pour vendre son logement vite et bien",
       "media": "Le Particulier (Groupe Figaro)",
       "logoMedia": "/logos/le-particulier.png",
       "date": "2025-03-01",
       "type": "Print",
       "format": "",
-      "url": "",
+      "url": "Format Print only : citation sur les frais de notaire",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 18,
+      "id": 19,
       "titre": "Frédéric Kopp : un petit troc en plus",
       "media": "Les Echos",
       "logoMedia": "/logos/les-echos.png",
@@ -231,19 +243,19 @@
       "pdfPath": ""
     },
     {
-      "id": 19,
+      "id": 20,
       "titre": "Toit, toit, mon toit",
       "media": "Avantages",
       "logoMedia": "",
       "date": "2024-12-31",
       "type": "Print",
       "format": "",
-      "url": "",
+      "url": "Format Print only (mention simple de Béa) - https://www.magazine-avantages.fr/",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 20,
+      "id": 21,
       "titre": "Immobilier : pourquoi acheter quand on peut échanger son logement ?",
       "media": "Ouest-France",
       "logoMedia": "/logos/ouest-france.png",
@@ -255,7 +267,7 @@
       "pdfPath": ""
     },
     {
-      "id": 21,
+      "id": 22,
       "titre": "Immobilier : pourquoi acheter quand on peut échanger son logement ?",
       "media": "MSN",
       "logoMedia": "/logos/msn.png",
@@ -267,7 +279,7 @@
       "pdfPath": ""
     },
     {
-      "id": 22,
+      "id": 23,
       "titre": "Immobilier : Pour sa 12e édition, le RENT a attiré plus de 12 000 professionnels",
       "media": "My Sweet Immo",
       "logoMedia": "/logos/mysweetimmo.png",
@@ -279,7 +291,7 @@
       "pdfPath": ""
     },
     {
-      "id": 23,
+      "id": 24,
       "titre": "En live du salon RENT avec Frédéric Kopp (Bea)",
       "media": "My Sweet Immo",
       "logoMedia": "/logos/mysweetimmo.png",
@@ -291,8 +303,8 @@
       "pdfPath": ""
     },
     {
-      "id": 24,
-      "titre": "Bilan de l'édition RENT 2024 à Paris : Une 12e édition sous le signe de la cohésion et de l'IA-nnovation",
+      "id": 25,
+      "titre": "Bilan de l’édition RENT 2024 à Paris : Une 12e édition sous le signe de la cohésion, de la solidarité et de l’IA-nnovation",
       "media": "Tendancehotellerie.fr",
       "logoMedia": "",
       "date": "2024-11-18",
@@ -303,9 +315,9 @@
       "pdfPath": ""
     },
     {
-      "id": 25,
+      "id": 26,
       "titre": "Frederic Kopp (Bea Immo), finaliste Sweet Awards RENT 2024",
-      "media": "My Sweet Immo (YouTube)",
+      "media": "Compte My Sweet Immo",
       "logoMedia": "/logos/mysweetimmo.png",
       "date": "2024-11-02",
       "type": "Youtube",
@@ -315,8 +327,8 @@
       "pdfPath": ""
     },
     {
-      "id": 26,
-      "titre": "Immobilier : « Réduire les frais de notaire grâce à l'échange de bien immobilier ! », Frédéric Kopp (Bea)",
+      "id": 27,
+      "titre": "Immobilier : « Réduire les frais de notaire grâce à l’échange de bien immobilier ! », Frédéric Kopp (Bea)",
       "media": "My Sweet Immo",
       "logoMedia": "/logos/mysweetimmo.png",
       "date": "2024-11-01",
@@ -327,7 +339,7 @@
       "pdfPath": ""
     },
     {
-      "id": 27,
+      "id": 28,
       "titre": "Propriétaire : et si vous échangiez votre logement plutôt que de le vendre ?",
       "media": "PAP",
       "logoMedia": "",
@@ -339,31 +351,31 @@
       "pdfPath": ""
     },
     {
-      "id": 28,
+      "id": 29,
       "titre": "Le don et le troc ont basculé en mode 2.0",
       "media": "Capital",
       "logoMedia": "/logos/capital.png",
       "date": "2024-10-01",
       "type": "Print",
       "format": "",
-      "url": "",
-      "journaliste": "",
-      "pdfPath": ""
-    },
-    {
-      "id": 29,
-      "titre": "Et si vous échangiez votre logement ? Cette alternative à la vente classique qui fait de plus en plus d'adeptes",
-      "media": "Public",
-      "logoMedia": "",
-      "date": "2024-09-12",
-      "type": "Non médias",
-      "format": "",
-      "url": "https://www.public.fr/et-si-vous-echangiez-votre-logement-cette-alternative-a-la-vente-classique-qui-fait-de-plus-en-plus-dadeptes",
+      "url": "Format Print only",
       "journaliste": "",
       "pdfPath": ""
     },
     {
       "id": 30,
+      "titre": "Et si vous échangiez votre logement ? Cette alternative à la vente classique qui fait de plus en plus d’adeptes",
+      "media": "Public",
+      "logoMedia": "",
+      "date": "2024-09-12",
+      "type": "Non médias",
+      "format": "",
+      "url": "https://www.public.fr/et-si-vous-echangiez-votre-logement-cette-alternative-a-la-vente-classique-qui-fait-de-plus-en-plus-dadeptes?",
+      "journaliste": "",
+      "pdfPath": ""
+    },
+    {
+      "id": 31,
       "titre": "Plutôt que vendre et acheter votre logement, et si vous l'échangiez avec un autre propriétaire ?",
       "media": "Merci pour l'info",
       "logoMedia": "",
@@ -375,7 +387,7 @@
       "pdfPath": ""
     },
     {
-      "id": 31,
+      "id": 32,
       "titre": "Immobilier : l'échange définitif d'appartement, une solution méconnue et idéale dans un marché bloqué",
       "media": "Mieux Vivre Votre Argent",
       "logoMedia": "/logos/investir.png",
@@ -387,8 +399,8 @@
       "pdfPath": ""
     },
     {
-      "id": 32,
-      "titre": "\"Sans l'échange, je n'aurais pas pu acheter aussi grand...\" Qu'est-ce que l'échange d'appartements entre propriétaires ?",
+      "id": 33,
+      "titre": "\"Sans l'échange, je n'aurais pas pu acheter aussi grand...\" Qu'est-ce que l'échange d'appartements entre propriétaires, qui permet de faire des économies ?",
       "media": "Femme Actuelle",
       "logoMedia": "",
       "date": "2024-09-09",
@@ -399,9 +411,9 @@
       "pdfPath": ""
     },
     {
-      "id": 33,
-      "titre": "Échanger son logement définitivement entre propriétaires, c'est possible",
-      "media": "Le Parisien / Aujourd'hui en France",
+      "id": 34,
+      "titre": "Échanger son logement définitivement entre propriétaires, c’est possible",
+      "media": "La Parisien / Aujourd'hui en France",
       "logoMedia": "/logos/le-parisien.png",
       "date": "2024-09-08",
       "type": "Print & Web",
@@ -411,32 +423,32 @@
       "pdfPath": ""
     },
     {
-      "id": 34,
+      "id": 35,
       "titre": "L'échange définitif de maisons, une solution qui permet d'économiser plusieurs dizaines de milliers d'euros",
       "media": "BFM Business",
       "logoMedia": "/logos/bfm.png",
       "date": "2024-08-20",
       "type": "Radio/TV",
       "format": "",
-      "url": "https://www.bfmtv.com/immobilier/achat-vente/l-echange-definitif-de-maisons-une-solution-qui-permet-d-economiser-plusieurs-dizaines-de-milliers-d-euros_AV-202408200061.html",
+      "url": "https://www.bfmtv.com/immobilier/achat-vente/l-echange-definitif-de-maisons-une-solution-qui-permet-d-economiser-plusieurs-dizaines-de-milliers-d-euros_AV-202408200061.html#",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 35,
+      "id": 36,
       "titre": "Troc immobilier : c'est quoi cette nouvelle tendance ?",
       "media": "Meilleurs Agents",
       "logoMedia": "",
       "date": "2024-08-15",
       "type": "Non médias",
       "format": "",
-      "url": "https://edito.meilleursagents.com/ca-buzz/troc-immobilier-c-quoi-cette-nouvelle-tendance-article-18896.html",
+      "url": "https://edito.meilleursagents.com/ca-buzz/troc-immobilier-c-quoi-cette-nouvelle-tendance-article-18896.html?",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 36,
-      "titre": "« J'ai économisé 50 000 € » : ils ont vendu grâce au troc de biens immobiliers",
+      "id": 37,
+      "titre": "« J’ai économisé 50 000 € » : ils ont vendu grâce au troc de biens immobiliers",
       "media": "Ouest-France",
       "logoMedia": "/logos/ouest-france.png",
       "date": "2024-06-20",
@@ -447,7 +459,7 @@
       "pdfPath": ""
     },
     {
-      "id": 37,
+      "id": 38,
       "titre": "La place de l'immo : Immobilier, les échanges de maisons",
       "media": "BFM Business",
       "logoMedia": "/logos/bfm.png",
@@ -459,7 +471,7 @@
       "pdfPath": ""
     },
     {
-      "id": 38,
+      "id": 39,
       "titre": "Immobilier : le troc de biens séduit de plus en plus de propriétaires",
       "media": "Capital",
       "logoMedia": "/logos/capital.png",
@@ -471,7 +483,7 @@
       "pdfPath": ""
     },
     {
-      "id": 39,
+      "id": 40,
       "titre": "JT 20h Week-end : Immobilier : des propriétaires échangent leurs biens",
       "media": "France 2",
       "logoMedia": "/logos/france-2.png",
@@ -483,7 +495,7 @@
       "pdfPath": ""
     },
     {
-      "id": 40,
+      "id": 41,
       "titre": "Immobilier : des propriétaires procèdent à des échanges de leurs biens",
       "media": "RadioDKL",
       "logoMedia": "",
@@ -495,8 +507,8 @@
       "pdfPath": ""
     },
     {
-      "id": 41,
-      "titre": "Echanger sa maison (et pas que pour les vacances), c'est possible",
+      "id": 42,
+      "titre": "Echanger sa maison (et pas que pour les vacances), c’est possible",
       "media": "Se Loger",
       "logoMedia": "",
       "date": "2024-05-22",
@@ -507,7 +519,7 @@
       "pdfPath": ""
     },
     {
-      "id": 42,
+      "id": 43,
       "titre": "Parlons Immo : Frédéric KOPP",
       "media": "Radio Immo",
       "logoMedia": "",
@@ -519,8 +531,8 @@
       "pdfPath": ""
     },
     {
-      "id": 43,
-      "titre": "Parlons immo : Qu'est-ce que l'échange de biens immobiliers ?",
+      "id": 44,
+      "titre": "Parlons immo : Ca vous concerne : Qu’est-ce que l’échange de biens immobiliers ?",
       "media": "Sud Radio",
       "logoMedia": "/logos/sud-radio.png",
       "date": "2024-05-18",
@@ -531,10 +543,10 @@
       "pdfPath": ""
     },
     {
-      "id": 44,
+      "id": 45,
       "titre": "Achat immobilier, une méthode pour économiser jusqu'à 60% sur les frais de notaires",
       "media": "RMC",
-      "logoMedia": "",
+      "logoMedia": "/logos/rmc.png",
       "date": "2024-04-28",
       "type": "Radio/TV",
       "format": "",
@@ -543,8 +555,8 @@
       "pdfPath": ""
     },
     {
-      "id": 45,
-      "titre": "Troquez votre logement contre un autre bien sans crédit, c'est possible",
+      "id": 46,
+      "titre": "Troquez votre logement contre un autre bien sans crédit, c’est possible",
       "media": "Le Figaro",
       "logoMedia": "/logos/le-figaro.png",
       "date": "2024-04-25",
@@ -555,19 +567,19 @@
       "pdfPath": ""
     },
     {
-      "id": 46,
+      "id": 47,
       "titre": "Et si vous échangiez votre logement entre propriétaires",
       "media": "BFMTV",
       "logoMedia": "/logos/bfm.png",
       "date": "2024-04-23",
       "type": "Radio/TV",
       "format": "",
-      "url": "https://www.bfmtv.com/immobilier/achat-vente/et-si-vous-echangiez-votre-logement-entre-proprietaires_AV-202404230469.html",
+      "url": "https://www.bfmtv.com/immobilier/achat-vente/et-si-vous-echangiez-votre-logement-entre-proprietaires_AV-202404230469.html#",
       "journaliste": "",
       "pdfPath": ""
     },
     {
-      "id": 47,
+      "id": 48,
       "titre": "Immobilier : échanger un bien, c'est possible",
       "media": "Capital",
       "logoMedia": "/logos/capital.png",
@@ -579,7 +591,7 @@
       "pdfPath": ""
     },
     {
-      "id": 48,
+      "id": 49,
       "titre": "L'échange définitif de maisons entre particuliers : comment ça se passe ?",
       "media": "Se Loger",
       "logoMedia": "",
@@ -591,7 +603,7 @@
       "pdfPath": ""
     },
     {
-      "id": 49,
+      "id": 50,
       "titre": "La Pépite - Béa, l'échange définitif entre propriétaires",
       "media": "BFM Business",
       "logoMedia": "/logos/bfm.png",
@@ -603,8 +615,8 @@
       "pdfPath": ""
     },
     {
-      "id": 50,
-      "titre": "Béa lance sa nouvelle application d'échange de biens entre propriétaires pour fluidifier le marché immobilier",
+      "id": 51,
+      "titre": "Béa lance sa nouvelleapplication d’échange debiens entre propriétairespour fluidifier le marché immobilier",
       "media": "Batinfo",
       "logoMedia": "",
       "date": "2024-04-04",
@@ -615,8 +627,8 @@
       "pdfPath": ""
     },
     {
-      "id": 51,
-      "titre": "« On cherchait plus petit » : voisins, ces deux couples ont échangé leurs maisons",
+      "id": 52,
+      "titre": "« On cherchait plus petit » : voisins, ces deux couples\nont échangé leurs maisons",
       "media": "Ouest-France",
       "logoMedia": "/logos/ouest-france.png",
       "date": "2024-04-02",
@@ -627,7 +639,7 @@
       "pdfPath": ""
     },
     {
-      "id": 52,
+      "id": 53,
       "titre": "Six idées pour investir en se faisant plaisir",
       "media": "Les Echos Week-end",
       "logoMedia": "/logos/les-echos.png",
@@ -639,8 +651,8 @@
       "pdfPath": ""
     },
     {
-      "id": 53,
-      "titre": "« Sortir de la crise immobilière : pourquoi ne pas opter pour l'échange de biens ? »",
+      "id": 54,
+      "titre": "« Sortir de la crise immobilière : pourquoi ne pas opter pour l’échange de biens ? »",
       "media": "Mieux Vivre Votre Argent",
       "logoMedia": "/logos/investir.png",
       "date": "2024-02-28",
@@ -651,7 +663,7 @@
       "pdfPath": ""
     },
     {
-      "id": 54,
+      "id": 55,
       "titre": "Béa, plateforme d'échanges immobiliers",
       "media": "J'aime les startups",
       "logoMedia": "",
@@ -663,7 +675,7 @@
       "pdfPath": ""
     },
     {
-      "id": 55,
+      "id": 56,
       "titre": "Béa, la startup qui vous permet d'acheter un bien immobilier en divisant vos frais de notaires par deux",
       "media": "International Business Times",
       "logoMedia": "",
@@ -674,6 +686,5 @@
       "journaliste": "",
       "pdfPath": ""
     }
-  ],
-  "interviews": []
+  ]
 }
