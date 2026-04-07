@@ -1,19 +1,31 @@
 {
-  "derniere_mise_a_jour": "2026-02-24",
+  "derniere_mise_a_jour": "2026-04-07",
   "client": {
     "nom": "Béa",
     "logo": "/logo-bea.png",
     "couleurPrimaire": "#1E2D40",
     "couleurAccent": "#FF6B35",
-    "periode": "janv. 2024 – févr. 2026",
+    "periode": "janv. 2024 – avr. 2026",
     "kpis": {
-      "retombees": "55",
+      "retombees": "56",
       "tvRadio": "10",
       "typesPresse": "6",
-      "mediasCles": "12"
+      "mediasCles": "13"
     }
   },
   "retombees": [
+    {
+      "id": 56,
+      "titre": "40 000 € de frais de notaire économisés : ils échangent leur appartement avec leurs voisins grâce à une loi de 1804",
+      "media": "Figaro Immobilier",
+      "logoMedia": "/logos/le-figaro.png",
+      "date": "2026-04-07",
+      "type": "Web",
+      "format": "",
+      "url": "https://immobilier.lefigaro.fr/acheter/actualites-de-la-recherche-immobiliere/3582-frais-notaire-economie-loi/",
+      "journaliste": "Aurélie Tachot",
+      "pdfPath": ""
+    },
     {
       "id": 1,
       "titre": "Béa bouscule les codes de l'immobilier dans Qui veut être mon associé ?",
