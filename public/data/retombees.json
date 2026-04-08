@@ -1,19 +1,31 @@
 {
-  "derniere_mise_a_jour": "2026-02-26 22:35",
+  "derniere_mise_a_jour": "2026-04-08",
   "client": {
     "nom": "Béa",
     "logo": "/logo-bea.png",
     "couleurPrimaire": "#1A1A2E",
     "couleurAccent": "#E94560",
-    "periode": "janv. 2024 – févr. 2026",
+    "periode": "janv. 2024 – avr. 2026",
     "kpis": {
-      "retombees": "56",
+      "retombees": "57",
       "tvRadio": "10",
       "typesPresse": "9",
-      "mediasCles": "13"
+      "mediasCles": "14"
     }
   },
   "retombees": [
+    {
+      "id": 57,
+      "titre": "40 000 € de frais de notaire économisés : ils échangent leur appartement avec leurs voisins grâce à une loi de 1804",
+      "media": "Figaro Immobilier",
+      "logoMedia": "/logos/le-figaro.png",
+      "date": "2026-04-07",
+      "type": "Web",
+      "format": "",
+      "url": "https://immobilier.lefigaro.fr/acheter/actualites-de-la-recherche-immobiliere/3582-frais-notaire-economie-loi/",
+      "journaliste": "Aurélie Tachot",
+      "pdfPath": ""
+    },
     {
       "id": 1,
       "titre": "Béa : l'application qui met en relation deux propriétaires souhaitant échanger leurs biens",
