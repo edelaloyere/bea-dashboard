@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-04-08",
+  "derniere_mise_a_jour": "2026-04-13",
   "client": {
     "nom": "Béa",
     "logo": "/logo-bea.png",
@@ -7,13 +7,25 @@
     "couleurAccent": "#E94560",
     "periode": "janv. 2024 – avr. 2026",
     "kpis": {
-      "retombees": "57",
+      "retombees": "58",
       "tvRadio": "10",
       "typesPresse": "9",
       "mediasCles": "14"
     }
   },
   "retombees": [
+    {
+      "id": 58,
+      "titre": "La chose n°1 à faire : il faut impérativement faire ceci pour économiser 40 000 € de frais de notaire",
+      "media": "Pleine Vie",
+      "logoMedia": "",
+      "date": "2026-04-13",
+      "type": "Print & Web",
+      "format": "",
+      "url": "https://www.pleinevie.fr/mes-droits/succession/la-chose-n1-a-faire-il-faut-imperativement-faire-ceci-pour-economiser-40-000-e-de-frais-de-notaire-200797.html",
+      "journaliste": "",
+      "pdfPath": ""
+    },
     {
       "id": 57,
       "titre": "40 000 € de frais de notaire économisés : ils échangent leur appartement avec leurs voisins grâce à une loi de 1804",
